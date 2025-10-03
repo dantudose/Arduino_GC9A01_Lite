@@ -1,0 +1,13 @@
+{
+  "name": "Arduino_GC9A01_Lite",
+  "version": "0.1.0",
+  "description": "Ultra-lightweight Arduino_GFX-compatible driver for GC9A01 round TFT on ESP32.",
+  "keywords": "gc9a01,arduino gfx,esp32,display,tft",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "headers": ["Arduino_GFX_Lite_Library.h"]
+}

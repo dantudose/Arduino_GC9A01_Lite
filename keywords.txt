@@ -1,0 +1,31 @@
+# Syntax Coloring Map For Arduino_GC9A01_Lite
+# Class (KEYWORD1)
+Arduino_GC9A01_Lite	KEYWORD1
+Arduino_GFX	KEYWORD1
+
+# Methods (KEYWORD2)
+begin	KEYWORD2
+clipRect	KEYWORD2
+drawFastHLine	KEYWORD2
+drawFastVLine	KEYWORD2
+drawPixel	KEYWORD2
+endWrite	KEYWORD2
+executeInitSequence	KEYWORD2
+fillRect	KEYWORD2
+fillScreen	KEYWORD2
+hardwareReset	KEYWORD2
+invertDisplay	KEYWORD2
+sendCommand	KEYWORD2
+setAddrWindow	KEYWORD2
+setBacklight	KEYWORD2
+setBacklightLevel	KEYWORD2
+setRotation	KEYWORD2
+startWrite	KEYWORD2
+writeColorRepeated	KEYWORD2
+writeFastHLine	KEYWORD2
+writeFastVLine	KEYWORD2
+writeFillRect	KEYWORD2
+writePixel	KEYWORD2
+writePixels	KEYWORD2
+
+# Constants (LITERAL1)
