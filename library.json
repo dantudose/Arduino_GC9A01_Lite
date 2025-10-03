@@ -5,7 +5,7 @@
   "keywords": "gc9a01,arduino gfx,esp32,display,tft",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dantudose/Arduino_GC9A01_Lite.git"
   },
   "frameworks": ["arduino"],
   "platforms": ["espressif32"],
